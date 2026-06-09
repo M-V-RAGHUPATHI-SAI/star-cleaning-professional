@@ -1,7 +1,7 @@
 export const businessConfig = {
   "name": "Star Cleaning Professional",
   "namePart1": "Star",
-  "namePart2": "Cleaning Professional",
+  "namePart2": "Cleaning",
   "tagline": "Cleaning Done Right",
   "category": "cleaning",
   "city": "South Florida",
