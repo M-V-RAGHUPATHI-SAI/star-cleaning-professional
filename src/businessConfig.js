@@ -1,7 +1,3 @@
-// Star Cleaning Professional — businessConfig
-// Generated: 2026-06-10 03:31
-// Edit freely. Re-run the generator to rebuild from scratch.
-
 export const businessConfig = {
   "name": "Star Cleaning Professional",
   "namePart1": "Star",
@@ -10,18 +6,18 @@ export const businessConfig = {
   "category": "cleaning",
   "city": "South Florida",
   "primaryColor": "#0D5C0D",
-  "secondaryColor": "#060D1F",
+  "secondaryColor": "#228B22",
   "colors": {
     "primary": "#0D5C0D",
-    "primaryDark": "#0A4718",
-    "secondary": "#060D1F",
-    "dark": "#030810",
+    "primaryDark": "#094009",
+    "secondary": "#228B22",
+    "dark": "#063006",
     "lightGray": "#E9EAE8",
     "cream": "#EBEBE6",
     "white": "#ffffff",
     "muted": "#6b7280",
     "border": "#e5e7eb",
-    "darkRgb": "3, 8, 16",
+    "darkRgb": "6, 48, 6",
     "primaryRgb": "13, 92, 13"
   },
   "fonts": {
@@ -572,5 +568,3 @@ export const businessConfig = {
     ]
   }
 };
-
-export default businessConfig;
